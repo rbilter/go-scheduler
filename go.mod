@@ -1,4 +1,4 @@
-module bitbucket.org/rbilter/timer.loop
+module github.com/rbilter/go-scheduler
 
 go 1.16
 

@@ -3,8 +3,8 @@ package queue_test
 import (
 	"testing"
 
-	"bitbucket.org/rbilter/timer.loop/scheduler/queue"
 	"github.com/google/uuid"
+	"github.com/rbilter/go-scheduler/scheduler/queue"
 	"github.com/stretchr/testify/assert"
 )
 

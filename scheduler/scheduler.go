@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/rbilter/timer.loop/scheduler/queue"
 	"github.com/google/uuid"
+	"github.com/rbilter/go-scheduler/scheduler/queue"
 )
 
 type schedulerOptions struct {
